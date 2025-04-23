@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Renzo P. Yumang</h1>
 <h3 align="center">A passionate BSIS student from City College of Angeles (CCA)</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
@@ -23,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zomue&show_icons=true&locale=en&layout=compact" alt="zomue" /></p>
 
